@@ -5,9 +5,9 @@
 ---
 - [حساب گیت هاب](https://github.com/abouhamze-fahime)
 
-- [رزومه](https://saharzeinivand.github.io/Resume/)
+- [رزومه](https://abouhamze-fahime.github.io/Resume/)
 
-- [SOP](https://saharzeinivand.github.io/SOP/)
+- [SOP](https://abouhamze-fahime.github.io/MySop/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
