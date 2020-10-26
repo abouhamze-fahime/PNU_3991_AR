@@ -48,7 +48,7 @@
  <td  align="center"></td> 
  <td  align="center">https://alireza-khajehgee.github.io/khajehgee-sop/</td>
  <td  align="center">https://alireza-khajehgee.github.io/</td>
- <td  align="center">مجیدی نسب</td>
+ <td  align="center">مهرداد مجدی نسب</td>
  <td  align="center">980218741</td>
  <td align="center">3</td>
  </tr>
