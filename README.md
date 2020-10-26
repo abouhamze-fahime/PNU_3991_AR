@@ -1,9 +1,9 @@
 # PNU_3991_AR
 ---------
-### سحر زینی وند
+### فهیمه ابوحمزه
  
 ---
-- [حساب گیت هاب](https://github.com/saharzeinivand)
+- [حساب گیت هاب](https://github.com/abouhamze-fahime)
 
 - [رزومه](https://saharzeinivand.github.io/Resume/)
 
