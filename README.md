@@ -1,7 +1,7 @@
 # PNU_3991_AR
 ---------
 
-///*![Project ](https://github.com/abouhamze-fahime/PNU_3991_AR/blob/gh-pages/SoftwareManagement/jsw-header-illustrations---v3.png)*\
+--------![Project ](https://github.com/abouhamze-fahime/PNU_3991_AR/blob/gh-pages/SoftwareManagement/jsw-header-illustrations---v3.png)
 
 
 
@@ -106,14 +106,14 @@
     <th ></th>
     <th ></th>
     <th></th>
-    <th></th>
+    <th>شبکه های کامپیوتری پیشرفته</th>
      <th ></th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
     <th ></th>
      <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement">مدیریت پروژه نرم افزاری</a></th>
-     <th ></th>
+     <th >بازیابی پیشرفته اطلاعات</th>
      <th></th>
     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering">مهندسی نرم افزار پیشرفته</a></th>
     <th>پنج شنبه</th>
