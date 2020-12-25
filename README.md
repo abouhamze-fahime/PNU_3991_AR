@@ -11,7 +11,7 @@
 - [SOP](https://abouhamze-fahime.github.io/MySop/)
 - [PatchWork](https://abouhamze-fahime.github.io/Fahime_PatchWork_JavaScript/PatchWork.jpeg)
 - [JavaScriptCertificate](https://abouhamze-fahime.github.io/Fahime_PatchWork_JavaScript/Certificate.PNG)
-- [Write in Latex](https://github.com/abouhamze-fahime/WriteInLatex)
+
 
 
 ## سیاهه ارزشیابی درس
