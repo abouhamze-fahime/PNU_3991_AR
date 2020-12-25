@@ -6,9 +6,9 @@
  
 ---
 -  [PNU_3991_AR](https://github.com/abouhamze-fahime/PNU_3991_AR/blob/gh-pages/README.md)
-- [حساب گیت هاب](https://github.com/abouhamze-fahime)
+- [GitHub Account](https://github.com/abouhamze-fahime)
 
-- [رزومه](https://abouhamze-fahime.github.io/Resume/)
+- [Resume](https://abouhamze-fahime.github.io/Resume/)
 
 - [SOP](https://abouhamze-fahime.github.io/MySop/)
 - [PatchWork](https://abouhamze-fahime.github.io/Fahime_PatchWork_JavaScript/PatchWork.jpeg)
