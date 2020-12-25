@@ -14,6 +14,42 @@
 - [Write in Latex](https://github.com/abouhamze-fahime/WriteInLatex)
 
 
+## سیاهه ارزشیابی درس
+
+<details>
+    <summary>فعالیت های مشترک همه دانشجویان</summary>
+    
+1. **فعالیت های مشترک همه دانشجویان**
+    1. ساخت اکانت گیت هاب
+    2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
+    3. ارائه رزومه
+    4. ارائه انگیزه نامه
+    5. ایجاد ریپازیتوری PNU_3991_AR
+    6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
+    7. مشارکت در گروهای درسی
+
+</details>
+    
+2. **پروژه هم خوانی**
+      - **تعریف** 
+          - ایجاد بستر مشارکت جمعی در خوانش و هم خوانی و درک مفاهیم و برگردان زبانی کتابهای تخصصی میباشد 
+      - **فعالیت های دانشجویی** 
+           - تلاش های گروهی مرتبط با فرایند نرم افزار
+
+3. **هم خوانی کتاب**
+    - [An Executive’s Guide to Software Quality in an Agile Organization: A Continuous Improvement Journey](http://library.lol/main/01157942A7F8B2FAAA9F6DB6F7F5C2A7) 
+      - **فعالیت های دانشجویی** 
+           - همخوانی و همفکری در درک مفاهیم و برگردان زبانی متن تخصصی کتاب
+
+4. **پروژه های کوچک کاربردی**
+    - مشارکت در پروژه های درسی کوچک و مستقل
+
+[**نمونه تحویل فعالیت های انجام شده**](https://github.com/saharzeinivand/PNU_3991_AR/)
+
+
+
+
+
 
 
 ------------------
@@ -33,19 +69,13 @@
 
 
 
-1. G-U01
- 
-     1. [_UID-02_فهيمه ابوحمزه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/1115272_01/02_%D9%81%D9%87%D9%8A%D9%85%D9%87%20%D8%A7%D8%A8%D9%88%D8%AD%D9%85%D8%B2%D9%87)  
-     1. [_UID-20__مهرداد مجدی نسب](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/1115272_01/20_%D9%85%D9%87%D8%B1%D8%AF%D8%A7%D8%AF%20%D9%85%D8%AC%D8%AF%D9%8A%20%D9%86%D8%B3%D8%A8)    
-     1. [_UID-13_سید مهدی سیادتیان حقیقی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement/1115272_01/13_%D8%B3%D9%8A%D8%AF%D9%85%D9%87%D8%AF%D9%8A%20%D8%B3%D9%8A%D8%A7%D8%AF%D8%AA%D9%8A%D8%A7%D9%86%20%D8%AD%D9%82%D9%8A%D9%82%D9%8A)      
+      
   
   
 
 ## دروس ارشد
 
 [1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/abouhamze-fahime/PNU_3991_AR/tree/gh-pages/AdvancedSoftwareEngineering)
-<br>
-[1115280_01	مدیریت پروژه نرم افزاری	3](https://github.com/abouhamze-fahime/PNU_3991_AR/tree/gh-pages/SoftwareManagement)
 <br>
 
 
