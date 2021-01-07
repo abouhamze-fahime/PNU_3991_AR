@@ -18,7 +18,19 @@
 - [Pressman Presentation](https://drive.google.com/file/d/14-uF9D34Rr9LGW3VOhaA6vR8iloNGWxg/view?usp=sharing) 
 
 
+-----------------------------
+## دروس ارشد  
 
+پروژه کوچک
+
+- [PRJ_TeamWorking](https://github.com/AliRazavi-edu/PRJ_TeamWorking)
+
+همخوانی
+
+- [REP_CollaborativeReading](https://github.com/AliRazavi-edu/REP_CollaborativeReading)
+- [CollaborativeReading](https://accounts.crowdin.com/login)
+
+--------------------------
 
 
 
@@ -41,9 +53,4 @@
       
   
   
-
-## مدیریت پروژه های نرم افزاری
-
-[1115280_01	مدیریت پروژه نرم افزاری	3](https://github.com/abouhamze-fahime/PNU_3991_AR/tree/gh-pages/SoftwareManagement)
-<br>
 
