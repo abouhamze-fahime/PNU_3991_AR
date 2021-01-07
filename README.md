@@ -28,7 +28,7 @@
 
 ##  بخش دروس ارشد
 - [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/abouhamze-fahime/PNU_3991_AR/blob/gh-pages/AdvancedSoftwareEngineering/FA_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس_مدیریت پروژه های نرم افزاری](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SZ_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_مدیریت پروژه های نرم افزاری](https://github.com/abouhamze-fahime/PNU_3991_AR/blob/gh-pages/SoftwareManagement/FA_SoftwareProjectManagement_CheckList_AR_3991.pdf)
 
 ------------------
 ## فهرست درس ها  
