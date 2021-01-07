@@ -35,7 +35,7 @@
 
 [1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/abouhamze-fahime/PNU_3991_AR/tree/gh-pages/AdvancedSoftwareEngineering)
 <br>
-[1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/abouhamze-fahime/PNU_3991_AR/tree/gh-pages/SoftwareManagement)
+[1115272_01	مدیریت پروژه نرم افزاری	3](https://github.com/abouhamze-fahime/PNU_3991_AR/tree/gh-pages/SoftwareManagement)
 <br>
 
 
