@@ -110,15 +110,15 @@
     <th ></th>
     <th ></th>
     <th></th>
-    <th></th>
-     <th ><a >مطالعه دروس </a></th>
+    <th>شبکه های کامپیوتری پیشرفته </th>
+     <th ><a > </a></th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
     <th ></th>
-     <th ><a></a></th>
-     <th >شبیش</th>
-     <th>شیبش</th>
+     <th ><a  href= "https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement">مدیریت پروژه های نرم افزاری </a></th>
+     <th >بازیابی پیشرفته اطلاعات</th>
+     <th></th>
     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering#TOC">مهندسی نرم افزار پیشرفته</a></th>
     <th>پنج شنبه</th>
   </tr>
