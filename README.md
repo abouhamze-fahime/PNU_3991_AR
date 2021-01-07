@@ -24,7 +24,7 @@
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/abouhamze-fahime/PNU_3991_AR/blob/gh-pages/_General/FA_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://abouhamze-fahime.github.io/PNU_3991_AR/FA_GeneralSection_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/abouhamze-fahime/PNU_3991_AR/blob/gh-pages/_General/FA_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس ارشد
 
