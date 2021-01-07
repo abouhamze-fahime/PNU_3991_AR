@@ -64,6 +64,7 @@
 </div>
 
 <div dir="ltr">
+     
 <table style="width:100%">
   <tr>
     <th >16-18</th>
@@ -74,11 +75,11 @@
     <th>روز</th>
   </tr>
   <tr>
-    <th ></th>
-    <th ></th>
-    <th ></th>
+    <th ><a > </a></th>
+    <th ><a > </a></th>
+    <th ><a > </a></th>
     <th></th>
-    <th></th>
+    <th ><a >مطالعه دروس </a></th>
     <th>شنبه</th>
   </tr>
    <tr>
@@ -86,40 +87,41 @@
     <th ></th>
     <th></th>
     <th></th>
-    <th ></th>
+    <th ><a >مطالعه دروس </a></th>
     <th>یک شنبه</th>
   </tr>
    <tr>
-     <th ></th>
-     <th ></th>
-     <th></th>
-     <th></th>
-    <th ></th>   
-    <th>دوشنبه</th>
+     <th ><a> </a> </th>
+     <th ><a > </a></th>
+     <th><a  > </a></th>
+    <th ></th> 
+    <th><a >مطالعه دروس </a></th>
+  <th>دوشنبه</th>
   </tr>
    <tr>
     <th ></th>
     <th ></th>
     <th></th>
     <th></th>
-    <th ></th>
+    <th ><a >مطالعه دروس </a></th>
     <th>سه شنبه</th>
   </tr>
    <tr>
     <th ></th>
     <th ></th>
     <th></th>
-    <th>شبکه های کامپیوتری پیشرفته</th>
-     <th ></th>
+    <th></th>
+     <th ><a >مطالعه دروس </a></th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
     <th ></th>
-     <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement">مدیریت پروژه نرم افزاری</a></th>
-     <th >بازیابی پیشرفته اطلاعات</th>
-     <th></th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering">مهندسی نرم افزار پیشرفته</a></th>
+     <th ><a></a></th>
+     <th >شبیش</th>
+     <th>شیبش</th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering#TOC">مهندسی نرم افزار پیشرفته</a></th>
     <th>پنج شنبه</th>
   </tr>
 </table>
-     </div>
+
+</div>
