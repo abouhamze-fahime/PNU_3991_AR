@@ -39,14 +39,10 @@
 <br>
 
 
+--------------
+## گروه های درسی
 
-
-
-
-
-
-------------------
-## Winter Semester Courses 1399/2020
+1. G-A01
 
 
 1. G-A01
@@ -59,17 +55,6 @@
 
 
 
-
-
-
-      
-  
-  
-
-## دروس ارشد
-
-[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/abouhamze-fahime/PNU_3991_AR/tree/gh-pages/AdvancedSoftwareEngineering)
-<br>
 
 
 --------------
